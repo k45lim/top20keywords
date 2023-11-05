@@ -14,4 +14,4 @@ How to use:
 6. You should see the top 20 keywords as output. For complete list of words, open the file wordcounts.txt
 7. The algorithm uses TagCrowd as it specs.
 
-Thanks John Purcell!
+Thanks John Purcell for teaching me the basics of python!
