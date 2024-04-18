@@ -1,17 +1,18 @@
 # top20keywords
-Helps job hunters to list down the keywords of any job posting in order to customize their resume
+Assisting job seekers in customizing their resumes by extracting keywords from job postings.
 
-Name of the program: Wordcount.py
+Program Name: Wordcount.py
 
-Installation: Copy Wordcount.py, excluded_words.csv and POSTING.TXT all in one folder.
+Installation:
 
-How to use: 
-1. Get to a website and copy all the text in the job posting.
-2. Open POSTING.TXT and paste all the text in this file.  Take note, if there is an existing content, delete the content first before pasting the text from step 1.
-3. Save and close POSTING.TXT
-4. Open a command prompt and go to the folder where you copied all these files.
-5. Once in the folder, run the prompt :  python Wordcount.py
-6. You should see the top 20 keywords as output. For complete list of words, open the file wordcounts.txt
-7. The algorithm uses TagCrowd as it specs.
+Copy Wordcount.py, excluded_words.csv, and POSTING.TXT into the same folder.
+How to Use:
 
-Thanks John Purcell for teaching me the basics of python!
+Visit a website and copy all the text from the job posting.
+Open POSTING.TXT and paste the copied text into this file. If there is existing content, delete it before pasting the new text.
+Save and close POSTING.TXT.
+Open a command prompt and navigate to the folder containing all these files.
+Once in the folder, execute the following command: python Wordcount.py
+The top 20 keywords will be displayed as output. For a complete list of words, open the file wordcounts.txt.
+The algorithm utilizes TagCrowd specifications.
+Special thanks to John Purcell for teaching me the basics of Python!
